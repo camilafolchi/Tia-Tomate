@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+
+header {
+  padding: 13%;
+  background-color: #E56353;
+  text-align: center;
+  color: #FFF;
+}
+
+.header__title {
+  font-weight: 200;
+  font-size: 100px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header__title2 {
+  font-weight: 700;
+  font-size: 70px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 1.125rem;
+  text-align: left;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+h1,
+main,
+.contact__title {
+  color: #fff;
+}
+
+h1 {
+  font-size: 6.25rem;
+}
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 4.375rem;
+  }
+}
+.header__title {
+  font-weight: 200;
+}
+.header__title div {
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 3.125rem;
+}
+
+.secondary,
+.about__name,
+.about__text {
+  color: #686963;
+}
+
+h2 {
+  font-size: 4.375rem;
+}
+
+body {
+  width: 100vw;
+  background: #white;
+}
+
+p {
+  margin: 1.3rem;
+}
+
+nav {
+  padding-left: 2rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.nav__logo {
+  height: 3rem;
+}
+
+header {
+  padding: 13%;
+  background-color: #E56353;
+}
+
+footer {
+  background-color: #686963;
+  padding: 6rem;
+}
+
+.footer__logo {
+  display: block;
+  height: 8rem;
+  margin: 0 auto;
+}
+
+article {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.about__title {
+  background-color: #E56353;
+  padding: 5rem 0;
+  margin: 0;
+}
+
+.about__container {
+  padding-left: 15%;
+  padding-right: 15%;
+  margin-top: 5%;
+  margin-bottom: 8%;
+}
+
+.about__img {
+  display: block;
+  margin: 1.5rem auto;
+  width: 60%;
+}
+
+.about__text {
+  margin-bottom: 4em;
+}
+
+form {
+  background-color: #E56353;
+  padding: 3rem 1.5rem 3rem 1.5rem;
+  text-align: center;
+}
+
+.contact__title {
+  margin: 1rem;
+}
+
+.secondary {
+  padding: 5% 10%;
+}
+
+.secondary__title {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.secondary__img {
+  width: 100%;
+}
+
+.secondary__text {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+main {
+  background-color: #91918D;
+  padding: 5% 10%;
+}
+
+.main__title {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.main__img {
+  width: 100%;
+}
+
+.main__text {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+button {
+  font-family: "Raleway", sans-serif;
+  font-size: 3.125rem;
+  font-weight: 700;
+  background: #fff;
+  color: #686963;
+  border-radius: 50px;
+  border: 1px solid #686963;
+  padding: 1.3rem 8rem;
+  margin-top: 2rem;
+}
+
+
+/*# sourceMappingURL=style.css.map */

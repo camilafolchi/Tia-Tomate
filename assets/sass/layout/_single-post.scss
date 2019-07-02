@@ -1,0 +1,46 @@
+.single-post__heading {
+  text-align: center;
+  padding: 0 200px;
+}
+
+.single-post__main-title {
+  font-size: $xxx-large;
+}
+
+.single-post__meta {
+  font-size: $x-small;
+  color: $nickel;
+}
+
+.single-post__featured-image {
+  margin: 0 100px;
+  text-align: center;
+}
+
+.single-post__sumary {
+  padding: 10px 0px;
+}
+
+.single-post__content {
+  padding: 0 200px;
+
+  h2 {
+    font-size: $xx-large;
+  }
+}
+
+.single-post__image {
+  margin: 0;
+}
+
+.single-post__quote {
+  margin-left: 0;
+
+  p {
+    font-size: $x-small;
+  }
+}
+
+.single-post__pagination {
+  text-align: center;
+}

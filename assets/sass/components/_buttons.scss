@@ -1,0 +1,30 @@
+.buttom {
+  padding: 8px 20px;
+  border: none;
+  font-family: $lato;
+  font-size: $small;
+  text-transform: uppercase;
+}
+
+.button_primery {
+  background-color: $coral;
+  color: $white;
+}
+
+&:hover {
+  background-color: $dim-gray;
+}
+
+&:focus, :active {
+  border: 2px solid $isabelline;
+}
+
+.buttom_secondary {
+  background-color: $isabelline;
+  color: $jet;
+}
+
+&:hover {
+  background-color: $dim-gray;
+  color: $white;
+}
